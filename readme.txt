@@ -5,3 +5,5 @@ git tests.
 git has a lot of advantages!
 create a new branch
 create a new branch is quick and easy and simple.
+
+add merge
